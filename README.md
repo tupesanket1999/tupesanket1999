@@ -8,4 +8,4 @@
 - 🤔 I’m looking for help with startups
 - 💬 Ask me about web development
 - 📫 How to reach me: tupesanket1999@gmail.com  
-- :basketball Basketball player  
+- :basketball: Basketball player  
