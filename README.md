@@ -8,7 +8,7 @@
 - :basketball: Basketball player
 - <img align="left" alt="CS GO | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/counter-strike.svg" /> CS GO :sparkling_heart: 
 
-<br>
+<br/>
 
 ### Connect with me:
 [<img align="left" alt="YOU | YouTube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
@@ -18,12 +18,12 @@
 [<img align="left" alt="CS GO | Steam"  src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />][steam]
 [<img align="left" alt="YOU | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 
-<br>
+<br/>
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Sanket Spotify Playing" width="350" />](https://open.spotify.com/playlist/2YRlj8dOVwrh0htI3vkXWt)
 
-<br>
+<br/>
 
 ### system information :information_source:
 ---
@@ -50,7 +50,7 @@
                                          Memory: 2133MiB / 15907MiB 
 ```
 ---
-
+<br/>
 
 ### Languages and Tools:
 # I :sparkling_heart:  <img src="https://www.vim.org/images/vim_on_fire.gif" />
