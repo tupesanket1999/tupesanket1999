@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/_tupesanket?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/_tupesanket)
 
-[![Instagram Follow](https://img.shields.io/twitter/follow/_tupesanket?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.instagram.com/sankettupe/)
+[![Instagram Follow](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sankettupe/)
 
 - 🔭 I’m currently working on compitive coding !
 - 🌱 I’m currently learning Machine Learning
