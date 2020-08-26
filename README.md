@@ -10,6 +10,11 @@
 <br/>
 
 ---
+<div class="border d-inline-flex">
+  <div class="p-5 border bg-gray-light">flex item 1</div>
+  <div class="p-5 border bg-gray-light">flex item 2</div>
+  <div class="p-5 border bg-gray-light">flex item 3</div>
+</div>
 
 ### Connect with me:
 [<img align="left" alt="YOU | YouTube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
