@@ -67,7 +67,7 @@
 <br/>
 
 ### Languages and Tools:
- <img src ="https://fontmeme.com/permalink/200826/77e8c40bd5985c699f21a2f5d8b0866b.png"/> <img width="50px" src="https://www.vim.org/images/vim_on_fire.gif" />
+ <img width="30px" src ="https://fontmeme.com/permalink/200826/77e8c40bd5985c699f21a2f5d8b0866b.png"/> <img width="30px" src="https://www.vim.org/images/vim_on_fire.gif" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
