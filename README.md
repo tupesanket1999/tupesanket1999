@@ -1,5 +1,5 @@
 ### Hi there, I'm Sanket 👋
-<div styl="display:flex">
+<div style="display:flex">
 
 <div>
 
