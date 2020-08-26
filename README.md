@@ -9,7 +9,7 @@
 - <img align="left" alt="CS GO | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/counter-strike.svg" /> CS GO :sparkling_heart: 
 
 <br>
----
+
 ### Connect with me:
 [<img align="left" alt="YOU | YouTube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
 [<img align="left" alt="TWI | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
@@ -19,12 +19,12 @@
 [<img align="left" alt="YOU | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 
 <br>
----
+
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Sanket Spotify Playing" width="350" />](https://open.spotify.com/playlist/2YRlj8dOVwrh0htI3vkXWt)
 
 <br>
----
+
 ###
 ---
 ```
