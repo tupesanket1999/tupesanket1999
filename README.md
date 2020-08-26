@@ -24,6 +24,7 @@
 
 ###
 ---
+```
                    -`                    sanket@sanket 
                   .o+`                   ------------- 
                  `ooo/                   OS: Arch Linux x86_64 
@@ -44,6 +45,7 @@
  `++:.                           `-/+/   GPU: AMD ATI Radeon HD 8670A/8670M/8690M / R5 M330 / M430 / Ra 
  .`                                 `/   GPU: Intel Skylake GT2 [HD Graphics 520] 
                                          Memory: 2133MiB / 15907MiB 
+```
 ---
 
 
