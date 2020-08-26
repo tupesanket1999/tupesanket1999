@@ -15,6 +15,7 @@
 [<img align="left" alt="LINK | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img align="left" alt="INSTA | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>][instagram]
 [<img align="left" alt="CS GO | Steam"  src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />][steam]
+[<img align="left" alt="YOU | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 <br>
 
 ### Spotify Playing 🎧
@@ -72,6 +73,7 @@
 <br />
 
 ---
+[facebook]: https://www.facebook.com/sankettupee/
 [steam]: https://steamcommunity.com/id/tryingtofindme/
 [twitter]: https://twitter.com/_tupesanket
 [youtube]: https://www.youtube.com/channel/UC9IxvZOWDHM1MDJAShF4jLw
