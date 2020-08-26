@@ -15,11 +15,11 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Sanket Spotify Playing" width="350" />](https://open.spotify.com/playlist/2YRlj8dOVwrh0htI3vkXWt)
 
 ### Connect with me:
-[<img align="left" alt="YOU | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="YOU | YouTube" width="22px" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
 [<img align="left" alt="TWI | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LINK | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="INSTA | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="CS GO | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/counter-strike.svg" />][steam]
+[<img align="left" alt="CS GO | Steam" width="22px" src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />][steam]
 
 
 <br>
