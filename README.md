@@ -35,7 +35,7 @@
 
 ---
 
-<div class="border d-flex">
+<div style="display: flex">
   <div class="p-5 border bg-gray-light">flex item 1</div>
   <div class="p-5 border bg-gray-light">flex item 2</div>
   <div class="p-5 border bg-gray-light">flex item 3</div>
