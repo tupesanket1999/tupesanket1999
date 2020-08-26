@@ -1,6 +1,6 @@
 ### Hi there, I'm Sanket 👋
 <div style={ display: flex }>
-  <div> 
+  <div style={ { flex-direction: row; }}> 
     - 🔭 I’m currently working on Arch Linux !
     - 🌱 I’m currently working on Machine Learning project
     - 🤔 I’m looking for help on startups
