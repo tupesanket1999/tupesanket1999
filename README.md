@@ -22,6 +22,31 @@
 
 <br>
 
+###
+                   -`                      
+                  .o+`                   ------------- 
+                 `ooo/                   OS: Arch Linux x86_64 
+                `+oooo:                  Host: Inspiron 5559 
+               `+oooooo:                 Kernel: 5.4.60-1-lts 
+               -+oooooo+:                Uptime: 42 mins 
+             `/:-:++oooo+:               Packages: 834 (pacman) 
+            `/++++/+++++++:              Shell: zsh 5.8 
+           `/++++++++++++++:             Resolution: 1920x1080 
+          `/+++ooooooooooooo/`           DE: Plasma 5.19.4 
+         ./ooosssso++osssssso+`          WM: KWin 
+        .oossssso-````/ossssss+`         WM Theme: Sweet-Dark 
+       -osssssso.      :ssssssso.        Theme: Breeze [Plasma], Breeze [GTK3] 
+      :osssssss/        osssso+++.       Icons: Tela-blue [Plasma], Tela-blue [GTK2/3] 
+     /ossssssss/        +ssssooo/-       Terminal: konsole 
+   `/ossssso+/:-        -:/+osssso+-     Terminal Font: Hack Nerd Font 11 
+  `+sso+:-`                 `.-/+oso:    CPU: Intel i7-6500U (4) @ 3.100GHz 
+ `++:.                           `-/+/   GPU: AMD ATI Radeon HD 8670A/8670M/8690M / R5 M330 / M430 / Ra 
+ .`                                 `/   GPU: Intel Skylake GT2 [HD Graphics 520] 
+                                         Memory: 2133MiB / 15907MiB 
+
+
+
+
 ### Languages and Tools:
 # I :sparkling_heart:  <img src="https://www.vim.org/images/vim_on_fire.gif" />
 
