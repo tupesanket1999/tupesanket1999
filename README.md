@@ -10,7 +10,7 @@
     - <img align="left" alt="CS GO | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/counter-strike.svg" /> CS GO :sparkling_heart: 
 </div>
   <div>
-  h
+  ![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=tupesanket1999&show_icons=true&theme=radical&count_private=true)
   </div>
 </div>
 <br/>
