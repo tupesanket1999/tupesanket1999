@@ -1,6 +1,7 @@
 ### Hi there, I'm Sanket 👋
 
-[- 🔭 I’m currently working on Arch Linux !
+[
+- 🔭 I’m currently working on Arch Linux !
 - 🌱 I’m currently working on Machine Learning project
 - 🤔 I’m looking for help on startups
 - 💬 Ask me about KickStartup
