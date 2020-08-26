@@ -12,8 +12,6 @@
 
 ![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=tupesanket1999&show_icons=true&theme=radical&count_private=true)
 
-<br/>
-
 ---
 
 
