@@ -1,5 +1,6 @@
 ### Hi there, I'm Sanket 👋
-
+<div style={{display:flex}> 
+  <div>
 - 🔭 I’m currently working on Arch Linux !
 - 🌱 I’m currently working on Machine Learning project
 - 🤔 I’m looking for help on startups
@@ -7,14 +8,13 @@
 - 📫 How to reach me: tupesanket1999@gmail.com  
 - :basketball: Basketball player
 - <img align="left" alt="CS GO | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/counter-strike.svg" /> CS GO :sparkling_heart: 
+</div>
+  s
+</div>
 <br/>
 
 ---
-<div class="border d-inline-flex">
-  <div class="p-5 border bg-gray-light">flex item 1</div>
-  <div class="p-5 border bg-gray-light">flex item 2</div>
-  <div class="p-5 border bg-gray-light">flex item 3</div>
-</div>
+
 
 ### Connect with me:
 [<img align="left" alt="YOU | YouTube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
