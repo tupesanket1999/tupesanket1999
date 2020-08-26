@@ -58,6 +58,8 @@
 ---
 <br/>
 
+![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=tupesanket1999&show_icons=true&theme=radical)
+
 ### Languages and Tools:
 # I :sparkling_heart:  <img src="https://www.vim.org/images/vim_on_fire.gif" />
 
