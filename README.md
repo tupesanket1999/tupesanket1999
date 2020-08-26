@@ -11,7 +11,7 @@
 
 ---
 
-&nbsp; &nbsp;  ![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=tupesanket1999&show_icons=true&theme=radical&count_private=true) <img width="220px" src ="https://raw.githubusercontent.com/tupesanket1999/tupesanket1999/master/ezgif.com-crop.gif"/>
+&nbsp; <img width="220px" src ="https://raw.githubusercontent.com/tupesanket1999/tupesanket1999/master/ezgif.com-crop.gif"/> &nbsp;  ![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=tupesanket1999&show_icons=true&theme=radical&count_private=true) 
 
 ---
 
