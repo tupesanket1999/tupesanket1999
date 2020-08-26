@@ -1,5 +1,7 @@
 ### Hi there, I'm Sanket 👋
 <div>
+
+
 - 🔭 I’m currently working on Arch Linux !
 - 🌱 I’m currently working on Machine Learning project
 - 🤔 I’m looking for help on startups
@@ -7,6 +9,7 @@
 - 📫 How to reach me: tupesanket1999@gmail.com  
 - :basketball: Basketball player
 - <img align="left" alt="CS GO | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/counter-strike.svg" /> CS GO :sparkling_heart: 
+
 </div>
 <div>
   
