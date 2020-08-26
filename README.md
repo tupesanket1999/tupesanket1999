@@ -1,6 +1,10 @@
 ### Hi there, I'm Sanket 👋
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/_tupesanket?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/_tupesanket)    [![Instagram Follow](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sankettupe/)
+### Connect with me:
+[<img align="left" alt="YOU | YouTube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
+[<img align="left" alt="TWI | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="LINK | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
+[<img align="left" alt="INSTA | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>][instagram]
+[<img align="left" alt="CS GO | Steam"  src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />][steam]
 
 - 🔭 I’m currently working on Arch Linux !
 - 🌱 I’m currently working on Machine Learning project
@@ -14,12 +18,7 @@
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Sanket Spotify Playing" width="350" />](https://open.spotify.com/playlist/2YRlj8dOVwrh0htI3vkXWt)
 
-### Connect with me:
-[<img align="left" alt="YOU | YouTube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
-[<img align="left" alt="TWI | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img align="left" alt="LINK | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
-[<img align="left" alt="INSTA | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>][instagram]
-[<img align="left" alt="CS GO | Steam"  src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />][steam]
+
 
 
 <br>
