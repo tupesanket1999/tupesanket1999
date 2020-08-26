@@ -35,11 +35,6 @@
 
 ---
 
-<div style="display: flex">
-  <div class="p-5 border bg-gray-light">flex item 1</div>
-  <div class="p-5 border bg-gray-light">flex item 2</div>
-  <div class="p-5 border bg-gray-light">flex item 3</div>
-</div>
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Sanket Spotify Playing" width="350" />](https://open.spotify.com/playlist/2YRlj8dOVwrh0htI3vkXWt)
