@@ -2,6 +2,7 @@
 
 
 - 🔭 I’m currently working on Arch Linux !
+- 🪟 i3 configs updated in repo
 - 🌱 I’m currently working on Machine Learning project
 - 🤔 I’m looking for help on startups
 - 💬 Ask me about KickStartup
