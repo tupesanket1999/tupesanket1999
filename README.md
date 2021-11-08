@@ -1,7 +1,7 @@
 ### Hi there, I'm Sanket 👋
 
 
-- 🔭 I’m currently working on Arch Linux !
+- 🔭 Software Engineer at Uptycs
 - 🪟 i3 configs updated in repo
 - 🌱 I’m currently working on Machine Learning project
 - 🤔 I’m looking for help on startups
