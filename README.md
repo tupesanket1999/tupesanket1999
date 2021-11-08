@@ -2,7 +2,7 @@
 
 
 - 🔭 Software Engineer at Uptycs
-- 🪟 i3 configs updated in repo
+- 🪟 i3wm configs updated in repo
 - 🌱 I’m currently working on Machine Learning project
 - 🤔 I’m looking for help on startups
 - 💬 Ask me about KickStartup
