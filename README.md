@@ -1,7 +1,7 @@
 ### Hi there, I'm Sanket 👋
 
 
-- 🔭 Software Engineer at Uptycs
+- 🔭 Software Engineer at Cequence
 - 🪟 i3wm configs updated in repo
 - 🌱 I’m currently working on Machine Learning project
 - 🤔 I’m looking for help on startups
